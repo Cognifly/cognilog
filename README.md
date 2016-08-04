@@ -1,6 +1,6 @@
 <h1 align="center">Cognilog</h1>
 <br>
-![home](https://github.com/cognifly/cognibot/blob/master/img/cognilog.png)
+![home](https://github.com/cognifly/cognilog/blob/master/img/cognilog.png)
 
 Package cognilog is a simple color logging package for Go. The colors supported are 
 red, green, yellow, white, cyan and magenta
